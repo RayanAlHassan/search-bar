@@ -1,0 +1,42 @@
+[{
+    "id": 1,
+    "title":"Replit",
+    "text": "Replit offers a public-facing online IDE that runs JavaScript and displays output in-browser. You can embed it into your site with just an iframe, allowing users to view, edit, and search through code. Its editor is styled internally, but you can control iframe sizing and integration via your own CSS."
+}, {
+    "id": 2,
+    "title":"Monaco Editor",
+    "text": "Monaco Editor, the same editor used in VS Code, can be embedded on your site to offer a full IDE experience for JS and CSS. It includes advanced features like IntelliSense, real-time error checking, and powerful search tools. Styling and configuration are managed with JavaScript, and you can load it via CDN or modules."
+}, {
+    "id": 3,
+    "title":"CodeMirror ",
+    "text": "CodeMirror is a lightweight, embeddable code editor ideal for adding JavaScript or CSS editors to your website. It offers syntax highlighting, autocompletion, and a built-in search feature using JavaScript. You can customize its theme and behavior easily through CSS and plugin configuration."
+}, {
+    "id": 4,
+    "title":"Reinstalling VS Code as a Last Resort",
+    "text": " If none of the other fixes work, fully uninstalling and reinstalling Visual Studio Code may be necessary. This includes removing any leftover configuration and extension folders to ensure a truly clean setup. Downloading the latest version ensures you're using the most stable and compatible build. After reinstallation, only add essential extensions one at a time to prevent reintroducing the issue too quickly. Although more time-consuming, a clean reinstall often resolves even the most persistent crashes and bugs."
+}, {
+    "id": 5,
+    "title":"Monaco Editor",
+    "text": "Monaco Editor, the same editor used in VS Code, can be embedded on your site to offer a full IDE experience for JS and CSS. It includes advanced features like IntelliSense, real-time error checking, and powerful search tools. Styling and configuration are managed with JavaScript, and you can load it via CDN or modules."
+}, {
+    "id": 6,
+    "title":"StackBlitz",
+    "text": "StackBlitz lets you embed a complete development environment in your site, perfect for JavaScript or CSS playgrounds. It supports real-time editing, search, and live previews using iframe embedding. You can create public projects and allow users to interact with and search through your code directly."
+}, {
+    "id": 7,
+    "title":"StackBlitz",
+    "text": "Replit offers a public-facing online IDE that runs JavaScript and displays output in-browser. You can embed it into your site with just an iframe, allowing users to view, edit, and search through code. Its editor is styled internally, but you can control iframe sizing and integration via your own CSS."
+}, {
+    "id": 8,
+    "title":"CodeMirror",
+    "text": "If none of the other fixes work, fully uninstalling and reinstalling Visual Studio Code may be necessary. This includes removing any leftover configuration and extension folders to ensure a truly clean setup. Downloading the latest version ensures you're using the most stable and compatible build. After reinstallation, only add essential extensions one at a time to prevent reintroducing the issue too quickly. Although more time-consuming, a clean reinstall often resolves even the most persistent crashes and bugs."
+}, {
+    "id": 9,
+    "title":"CodeMirror",
+    "text": "CodeMirror is a lightweight, embeddable code editor ideal for adding JavaScript or CSS editors to your website. It offers syntax highlighting, autocompletion, and a built-in search feature using JavaScript. You can customize its theme and behavior easily through CSS and plugin configuration."
+}, {
+    "id": 10,
+    "title":"CodeMirror",
+    "text": "CodeMirror is a lightweight, embeddable code editor ideal for adding JavaScript or CSS editors to your website. It offers syntax highlighting, autocompletion, and a built-in search feature using JavaScript. You can customize its theme and behavior easily through CSS and plugin configuration."
+}] 
+

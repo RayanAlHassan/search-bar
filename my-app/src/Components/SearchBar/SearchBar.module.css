@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+section{
+    width: 80%;
+    margin:0 auto;
+    padding: 2%;
+    justify-content: center;
+}
+li{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 2%;
+    padding: 20px;
+    background-color: rgb(107, 141, 152);
+}
+
+ol {
+    list-style-type: decimal; 
+  }
+  
+  ol li {
+    margin-bottom: 10px; 
+  }
+  .search {
+    width: 30%;
+}
